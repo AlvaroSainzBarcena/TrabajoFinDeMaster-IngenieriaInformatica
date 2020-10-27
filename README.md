@@ -33,11 +33,13 @@ purposes involves an increase in the area susceptible to cyber attacks. The infr
 assets whose failure or theft may involve irreparable damage. In order to improve cybersecurity, it is
 vital to have knowledge about an existing danger that affects assets in order to assess it and take the
 appropriate measures, known as threat intelligence.
+
 This work presents the design and deployment of a cybersecurity tool based on Elasticsearch
 technology with the aim of improving the threat intelligence of an organization by relying on open
 threat information platforms. This tool enriches the threat information from cybersecurity sources
 and sensors, such as IPS (Intrusion Prevention System) or network traffic, to provide higher quality
 information to cybersecurity operators and analysts.
+
 From a technological point of view, a clustered infrastructure with high availability has been built
 using virtualization in Linux systems where the Elasticsearch engine has been deployed, an ELK component (Elasticsearch, Logstash and Kibana) that allows to store and search among a big data very
 efficiently. The tool allows a massive and close to real-time collection of different information sources,
