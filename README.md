@@ -2,10 +2,11 @@
 Despliegue de una plataforma big data de
 inteligencia de ciberseguridad basada en
 soluciones abiertas de compartición de
-información de amenazas
-(A big data platform for cybersecurity
+información de amenazas.
+
+A big data platform for cybersecurity
 intelligence based on open solutions of threat
-information sharing)
+information sharing.
 ## Resumen
 
 La transformación digital llevada a cabo en prácticamente todas las empresas u organismos para
